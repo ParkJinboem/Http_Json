@@ -33,6 +33,8 @@ public class Https : MonoBehaviour
         else
         {
             Debug.Log("error");
+            
+
         }
     }
 }

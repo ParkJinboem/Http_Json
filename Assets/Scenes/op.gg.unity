@@ -1300,6 +1300,7 @@ MonoBehaviour:
   serverList: {fileID: 263592837}
   selectedServerName: {fileID: 1100051599}
   inputText: {fileID: 1277204801}
+  img: {fileID: 1802847330}
 --- !u!1 &1304864892
 GameObject:
   m_ObjectHideFlags: 0
