@@ -119,7 +119,7 @@ public class Server : MonoBehaviour
 
         if (www.error == null)
         {
-            Debug.Log(www.downloadHandler.text);    //¡¶¿ÃΩº¿Ã ≥Ø∂Ûø»
+            //Debug.Log(www.downloadHandler.text);    //¡¶¿ÃΩº¿Ã ≥Ø∂Ûø»
 
             serverData = JsonUtility.FromJson<ServerRoot>(www.downloadHandler.text);
 
